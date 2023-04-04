@@ -1,0 +1,19 @@
+USADO PARA ALINHAR TEXTO NO CENTRO DA PÁGINA
+h1 {
+ color: red;
+ text-align: center;
+}
+h1 E h2 EM VERMELHO
+
+ h1, h2 {
+ color: red;
+}
+
+COR DA BODY E COR DO FUNDO
+body {
+ background-color: yellow;
+}
+COR AZUL EM TODO BODYbody
+ {
+ color: blue
+}
