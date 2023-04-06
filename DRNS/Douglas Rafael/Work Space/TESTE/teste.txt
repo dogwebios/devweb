@@ -1,49 +1,7 @@
-<p> <p/> - Paragráfo
-
-<!DOCTYPE html>
-<html> 
-<head> responsavél por colocar configurações no site
-
-</html>
-<body> corpo da pagina
-
-==============================
-<!DOCTYPE html>
-<html> 
-<head>
-</head>
-<body>
-</body>
-</html>
- 
-=============================================
-
-<!DOCTYPE html>
-<html> 
-<head> <!-- Head serve apenas para configuração -->
-</head>
-<meta charset="UTF-8"> 
-<body> 
-    <p> Curso de programação  Web Çáéú - IOS Santana</p>
-</body>
-</html>
-lang="pt-br">  atributo para tradução de página web.
+(0,0, 255)
+(0, 0, 0) =preto
+(255, 255, 255)=branco
 
 
-
-Novo
-<!DOCTYPE html>
-<html lang="pt-br"> 
-<head> <!-- Head serve apenas para configuração -->
-</head>
-<meta charset="UTF-8"> 
-<title>Primeira Aula </title>
-<body> 
-    <p> Curso de programação Web </p>
-    Curso de programação  Web Çáéú - IOS Santana. <br>
-    Curso de programação  Web Çáéú -<br> 
-    IOS SantanaCurso de programação  Web Çáéú - IOS Santana
-    
-</body>
-</html>
-shift alt f
+inline <body style="background-color: aqua;">
+incorporada
