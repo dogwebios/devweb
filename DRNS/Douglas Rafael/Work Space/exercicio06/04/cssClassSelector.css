@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+body {
+    background-color: #ebffff;
+    color: #191970;
+    font-family: Arial, Verdana, sans-serif;
+}
+header {
+    background-color: #d17bff;
+    color: #d2f3ee;
+    font-size: large;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(17, 17, 18);
+    color: #ff0808;
+    line-height: 150%;
+    font-family: Georgia, "Times New Roman", serif;
+    text-shadow: 6px 6px 6px #e70e0e;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(176, 231, 254);
+    font-family: Georgia, "Times New Roman", serif;
+    
+    text-align: center;
+}
+
+p {
+    font-size: .68em;
+    text-indent: 3em;
+    background-color: #89a2ed;
+}
+
+p.fundo {
+    background-color: #9bb7ba;
+}
+
+ul {
+    font-weight: bold;
+    color: rgb(34, 34, 34);
+}
+
+ol {
+    color: #48412d ;
+    font-size: .48;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a1 {
+    color: red;
+}
+.dois {
+    color: chocolate;
+}
+.três {
+    color: forestgreen;
+}
+.quatro {
+    color: gray;
+}
+
+footer {
+    color: #333333;
+    font-size: .25em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cor_texto {
+    color: #005ac7;
+
+}
+
+footer {
+
+    color: #40819a;
+    font-size: .75em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}

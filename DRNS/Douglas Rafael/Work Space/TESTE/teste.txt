@@ -5,3 +5,4 @@
 
 inline <body style="background-color: aqua;">
 incorporada
+<p class="fundo cor_texto">  2 lementos de classe em ' linha
