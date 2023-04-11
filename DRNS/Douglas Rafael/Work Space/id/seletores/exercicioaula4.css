@@ -12,7 +12,7 @@ h4 {
     background-color: lightblue;
     color: black;
     padding: 40px;
-    text-shadow: 1px 1px;
+    text-shadow: 1px 1px 1px  #48789f;
 }
 
 header li {
