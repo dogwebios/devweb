@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(222, 221, 196);
+    font-family: 'Roboto', sans-serif;
+    color: lightslategrey;
+    font-size: 1rem;
+ 
+  
+}
+
+
+h4 {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-shadow: 1px 1px;
+}
+
+header li {
+    display: inline;
+}
+
+h2 {
+    background-color: darkgray;
+    color: black;
+}
+
+section {
+    border: 1px solid;
+    color: darkgreen;
+    text-align: center; 
+ 
+
+}
+
+.teste h3 {
+    background-color: chocolate;
+    color: blue;
+}
+
+
