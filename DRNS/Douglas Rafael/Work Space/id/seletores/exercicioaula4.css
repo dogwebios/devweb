@@ -36,6 +36,8 @@ section {
     background-color: chocolate;
     color: blue;
 }
-footer {text-align: center;}
+footer article{
+    text-align: center;
+}
 
 
