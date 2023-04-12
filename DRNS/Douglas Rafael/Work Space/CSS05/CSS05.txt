@@ -1,0 +1,106 @@
+Exemplos de border / padding 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  padding: 70px;
+  border: 1px solid #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<h2>CSS Padding</h2>
+<div>This element has a padding of 70px.</div>
+
+</body>
+</html>
+
+estilos HR 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<style>
+/* Red border */
+hr.new1 {
+  border-top: 1px solid red;
+}
+
+/* Dashed red border */
+hr.new2 {
+  border-top: 1px dashed red;
+}
+
+/* Dotted red border */
+hr.new3 {
+  border-top: 1px dotted red;
+}
+
+/* Thick red border */
+hr.new4 {
+  border: 1px solid red;
+}
+
+/* Large rounded green border */
+hr.new5 {
+  border: 10px solid green;
+  border-radius: 5px;
+}
+</style>
+</head>
+<body>
+
+<h2>Style HR</h2>
+<p>Default:</p>
+<hr>
+<p>Different styles of HR:</p>
+<hr class="new1">
+<hr class="new2">
+<hr class="new3">
+<hr class="new4">
+<hr class="new5">
+
+</body>
+</html>
+
+ padding: 1em;  -- espaçamento do titulo h1/h2
+
+ border-bottom: 2px dashed #191970 ;
+ width largura
+ padding espaçamento
+ border , borda
+
+
+ ++++++++++++++++++++++++++++++++++++
+ background-image do CSS permite configurar uma imagem como plano de fundo
+na área de um elemento do HTML.
+body {
+background-image: url('texture1.png');
+}
+Você pode configurar as duas propriedades de cor e imagem de fundo, para que o
+navegador mostre uma cor de fundo, enquanto a imagem é carregada na página
+web. Vejamos o exemplo:
+body {
+background-color: #99cccc;
+background-image: url('texture1.png');
+}
+
+==========================
+background-repeat 
+repeat
+(default), repeat-y (repete verticalmente), repeat-x (repete horizontalmente), norepeat (não repete), round, round repeat, space ou space repeat.   
+Demais propriedades de Background:
+background-position: permite definir o local da sua imagem na página de acordo
+com valores numéricos (em pixels, porcentagem, etc.) ou pelos rótulos: left
+(padrão), top, center, bottom, and right.
+background-attachment: configura se a imagem irá rolar com o resto da página
+(scroll) ou se irá permanecer fixa (fixed).
+background-size: pode ser usada para redimensionar a imagem com valores de
+largura (width) e altura (height), em pixels ou porcentagem, ou com rótulos como:
+cover (cobre toda a área disponível, preservando o aspect radio) ou contain (escala
+a imagem para a maior medida entre a largura e altura, preservando o aspect
+radio).
+A seguir um exemplo de CSS para background:

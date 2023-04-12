@@ -12,12 +12,15 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 200%;
     text-shadow: 3px 3px 5px #cccccc;
+    padding: 1em;
 }
 
 h2 {
     background-color: #aeaed4;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    text-align: center; 
+    border-bottom: 2px dashed #191970 ;
+    
 }
 
 p {
