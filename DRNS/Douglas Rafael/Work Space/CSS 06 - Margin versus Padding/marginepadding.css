@@ -1,0 +1,11 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    width: 800;
+}
+#fig { background-color: aqua;
+    border: 1px solid #000 darkblue;
+}
+img {
+   
+    margin: 15px;
+}
