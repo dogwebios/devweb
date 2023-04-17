@@ -2,13 +2,42 @@ img {
     height: 200px;
     width: 200px;
 }
+
 .imagem1 {
     float: left;
 }
+
 div {
     height: 250px;
     border: 1px solid #000;
 }
+
 .imagem2 {
     float: right;
+}
+
+.secaoimagem1 {
+    float: left;
+}
+
+.secaoimagem2 {
+    float: left;
+}
+
+.secaoparagrafo {
+    clear: left;
+}
+
+#secao1 {
+    border: 1px solid red;
+    width: 300px;
+    height: 200px;
+
+}
+
+#secao2 {
+    border: 1px solid aqua;
+    width: 300px;
+    height: 200px;
+    padding: 50px;
 }
