@@ -1,0 +1,14 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+.imagem1 {
+    float: left;
+}
+div {
+    height: 250px;
+    border: 1px solid #000;
+}
+.imagem2 {
+    float: right;
+}
