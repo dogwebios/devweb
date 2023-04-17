@@ -1,0 +1,25 @@
+
+
+body {
+    background-color: #e8dfe2; 
+    font-family: 'Sacramento', cursive;
+  
+}
+
+p {
+    background-color: rgb(182, 236, 195);
+    font-weight: 900;
+    line-height: 200%; 
+}
+
+span {
+    background-color: #a7c5ce;
+    font-style: italic;
+    text-shadow: 3px 4px 1px #de1515;
+}
+
+h1 {
+    background-color: hsl(306, 57%, 85%);
+  
+
+}
