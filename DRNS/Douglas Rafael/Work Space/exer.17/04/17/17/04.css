@@ -1,6 +1,8 @@
-* { padding: 0px;
+* {
+    padding: 0px;
     margin: 0px;
 }
+
 body {
     width: 80%;
     margin: auto;
@@ -9,17 +11,30 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-div {
+.titulo {
     border: 2px solid #000;
     height: 400px;
 }
 
-.imagem1 {float: right;
 
-}
-.imagem2 {
-    float: left;
-}
-.imagem3 {
-    
-}
+
+.imagem1 {
+    float: right;
+    height: 400px;}
+
+    .leitura {
+        border: 2px solid #000;
+        height: 400px;
+    }
+
+
+    .imagem2 {
+        float: left;
+        height: 400px;
+    }
+    .vovo {
+        border: 2px solid #000;
+        height: 400px;
+    }
+
+   
