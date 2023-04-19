@@ -31,7 +31,7 @@ ul {
 }
 
 input:focus {
-    background-color: yellow;
+    background-color: rgb(255, 34, 0);
    
 }
 
@@ -55,9 +55,3 @@ h2::selection {
     color: red;
     background: yellow;
 }
-span {
-    
-    width: 5%;
-    font-size: 400%;
-    line-height: 80%;
-  }
