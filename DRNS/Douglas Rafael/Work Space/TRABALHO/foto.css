@@ -1,0 +1,15 @@
+@charset "utf-8";
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .photo-grid img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+
+  
