@@ -1,0 +1,40 @@
+@charset "utf-8";
+.container { text-align: center;
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-template-rows: 100px 100px;
+ /* grid-template-areas: "filho1 filho1 filho2 filho2 ." "filho3 filho3 filho4 filho4 ."; */
+ grid gap: 40px 15px;
+}
+.itens {
+    width: 200px;
+    height: 200px;
+}
+.item-1 {
+    background-color: rgb(255, 1, 1);
+    border: 1px solid rgb(0, 0, 0);
+  width: 50px;
+height: 50px;
+/* grid-area: filho1; */
+}
+.item-2 {
+    background-color: rgb(0, 255, 26);
+    border: 1px solid rgb(2, 0, 71);
+    width: 50px;
+    height: 50px;
+/* grid-area: filho2; */
+}
+.item-3 {
+    background-color: rgb(255, 247, 0);
+    border: 1px solid rgb(0, 255, 0);
+    width: 50px;
+    height: 50px;
+    /* grid-area: filho3; */
+}
+.item-4 {
+    background-color: rgb(242, 1, 255);
+    border: 1px solid rgb(0, 0, 0);
+    width: 50px;
+    height: 50px;
+    /* grid-area: filho4; */
+}
